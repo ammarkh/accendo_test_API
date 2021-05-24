@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6873cafd-0c4b-4155-8dad-aecbb0360f24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rcGcj2daaFV24tfX8c3xXAvUcp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AssignmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="assignment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.homework.assignment.AssignmentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6873cafd-0c4b-4155-8dad-aecbb0360f24" name="Default Changelist" comment="" />
+      <created>1619268051078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619268051078</updated>
+      <workItem from="1619268052605" duration="2277000" />
+      <workItem from="1619292975466" duration="6272000" />
+      <workItem from="1619538856733" duration="285000" />
+      <workItem from="1619539167868" duration="779000" />
+      <workItem from="1619544246830" duration="1259000" />
+      <workItem from="1619552349467" duration="1438000" />
+      <workItem from="1619556106862" duration="3827000" />
+      <workItem from="1619569896213" duration="4533000" />
+      <workItem from="1619633570394" duration="16338000" />
+      <workItem from="1619655936798" duration="847000" />
+      <workItem from="1619728428464" duration="4461000" />
+      <workItem from="1619788720071" duration="2575000" />
+      <workItem from="1619814924869" duration="1832000" />
+      <workItem from="1620209362180" duration="2375000" />
+      <workItem from="1621259041745" duration="781000" />
+      <workItem from="1621443826446" duration="3184000" />
+      <workItem from="1621504550499" duration="1945000" />
+      <workItem from="1621518904032" duration="1055000" />
+      <workItem from="1621538586046" duration="1577000" />
+      <workItem from="1621548321847" duration="484000" />
+      <workItem from="1621622895822" duration="5795000" />
+      <workItem from="1621671911890" duration="2414000" />
+      <workItem from="1621692373484" duration="1454000" />
+      <workItem from="1621703412939" duration="957000" />
+      <workItem from="1621711023789" duration="1130000" />
+      <workItem from="1621712651256" duration="4962000" />
+      <workItem from="1621730280831" duration="636000" />
+      <workItem from="1621732433738" duration="1028000" />
+      <workItem from="1621759670715" duration="4741000" />
+      <workItem from="1621765882116" duration="3875000" />
+      <workItem from="1621777473099" duration="9602000" />
+      <workItem from="1621796407924" duration="476000" />
+      <workItem from="1621802101166" duration="2057000" />
+      <workItem from="1621804250421" duration="7072000" />
+      <workItem from="1621819225690" duration="2202000" />
+      <workItem from="1621845427461" duration="2284000" />
+      <workItem from="1621848741533" duration="732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -12,6 +12,7 @@
 	<artifactId>assignment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>assignment</name>
+	<packaging>jar</packaging>
 	<description>demo project for assignment</description>
 	<properties>
 		<java.version>16</java.version>
